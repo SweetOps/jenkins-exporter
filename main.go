@@ -16,10 +16,10 @@ import (
 	"github.com/jamiealquiza/envy"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
-	"github.com/simplesurance/jenkins-exporter/internal/cli"
-	"github.com/simplesurance/jenkins-exporter/internal/jenkins"
-	"github.com/simplesurance/jenkins-exporter/internal/prometheus"
-	"github.com/simplesurance/jenkins-exporter/internal/store"
+	"github.com/sweetops/jenkins-exporter/internal/cli"
+	"github.com/sweetops/jenkins-exporter/internal/jenkins"
+	"github.com/sweetops/jenkins-exporter/internal/prometheus"
+	"github.com/sweetops/jenkins-exporter/internal/store"
 )
 
 const (

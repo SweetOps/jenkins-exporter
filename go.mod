@@ -1,4 +1,4 @@
-module github.com/simplesurance/jenkins-exporter
+module github.com/sweetops/jenkins-exporter
 
 go 1.12
 
